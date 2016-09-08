@@ -30,7 +30,11 @@ body {
     -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
     -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 
+<<<<<<< HEAD
     background: url(../img/me.jpg) no-repeat;
+=======
+    background: url(../img/me.png) no-repeat;
+>>>>>>> 51dbe29c45f42743a98fbcc24a28b8b914b61332
     background-size: 200px 200px;
 
 }
