@@ -202,16 +202,17 @@ textarea#styled {
 .squarerounded {
     position: absolute;
     left: 0;
-    width:140px;
-    height:140px;
+    width:170px;
+    height:170px;
     -webkit-border-radius: 25px;
     -moz-border-radius: 25px;
     border-radius: 25px;
     border:8px solid #3021FF;
     background-color:#D8E3DE;
+	padding: 16px;
     
     background: url(../img/me.png) no-repeat;
-    background-size: 140px 140px;
+    background-size: 170px 170px;
 
 
 }
