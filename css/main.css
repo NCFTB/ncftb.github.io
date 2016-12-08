@@ -180,7 +180,7 @@ textarea#styled {
 }
 
 .transboxfixed {
-    position: absolute;
+    position: fixed;
 	height: 100;
 	width: 600;
     text-align: left;
