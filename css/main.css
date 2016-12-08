@@ -178,5 +178,39 @@ textarea#styled {
 	background-position: left;
 	background-repeat: no-repeat;
 }
+}
+.transboxfixed {
+    position: absolute;
+    text-align
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+.transboxfixed p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+    color: #ffffff;
+}
+
+.squarerounded {
+    position: absolute;
+    left: 0;
+    width:80px;
+    height:80px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    border:8px solid #3021FF;
+    background-color:#D8E3DE;
+    
+    background: url(../img/me.png) no-repeat;
+    background-size: 80px 80px;
+
+}
 
 
