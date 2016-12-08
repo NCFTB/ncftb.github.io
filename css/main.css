@@ -178,7 +178,7 @@ textarea#styled {
 	background-position: left;
 	background-repeat: no-repeat;
 }
-}
+
 .transboxfixed {
     position: absolute;
 	height: 100;
@@ -213,7 +213,7 @@ textarea#styled {
     background: url(../img/me.png) no-repeat;
     background-size: 80px 80px;
 
-}
+
 }
 
 .squarerounded img {
