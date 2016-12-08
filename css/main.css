@@ -223,5 +223,5 @@ textarea#styled {
 
 
 .footer {
-	position: absolute;
+	position: fixed bottom;
 	
