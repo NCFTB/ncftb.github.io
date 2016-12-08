@@ -196,7 +196,7 @@ textarea#styled {
     font-size: 18px;
     padding-top: 10px;
     margin-bottom: 0px;
-    color: #ffffff;
+    color: black;
 }
 
 .squarerounded {
@@ -209,7 +209,7 @@ textarea#styled {
     border-radius: 25px;
     border:8px solid #3021FF;
     background-color:#D8E3DE;
-	padding: 16px;
+	padding: 46px;
     
     background: url(../img/me.png) no-repeat;
     background-size: 170px 170px;
