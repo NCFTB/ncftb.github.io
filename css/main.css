@@ -14,19 +14,13 @@ body {
 }
 
 .circular {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
 
-    border-radius: 100px;
-    -webkit-border-radius: 100px;
-    -moz-border-radius: 100px;
-
-    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 
     background: url(../img/me.png) no-repeat;
     background: url(../img/me.png) no-repeat;
-    background-size: 200px 200px;
+    background-size: 300px 300px;
 
 }
 
@@ -183,12 +177,15 @@ body {
     left: 0;
     width:170px;
     height:170px;
-    -webkit-border-radius: 25px;
-    -moz-border-radius: 25px;
-    border-radius: 25px;
-    border: 6px solid #3021FF;
-    background-color:#D8E3DE;
-    padding-right: 10px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    background-color:#EE33AA;
+    -webkit-box-shadow: #000000 8px 8px 8px;
+    -moz-box-shadow: #000000 8px 8px 8px;
+    box-shadow: #000000 8px 8px 8px;
+
+margin-right: 10px;
     
     background: url(../img/Bjorn.png) no-repeat;
     background-size: 170px 170px;
@@ -211,7 +208,7 @@ body {
 .name2 p {
     font-family: "Montserrat", sans-serif;
     font-weight: 300;
-    font-size: 15px;
+    font-size: 17px;
     padding-top: 10px;
 	padding-left: 10px;
     margin-bottom: 0px;
@@ -263,6 +260,25 @@ body {
 }
 
 .roundedtransimg img {
+    opacity: 0;
+    filter: alpha(opacity=0);
+	padding-right: 10px;
+}
+
+.roundedtransimgnobord {
+    float: left;
+    left: 0;
+    width:170px;
+    height:170px;
+    margin-right: 10px;
+    
+    background: url(../img/boinc1.png) no-repeat;
+    background-size: 170px 170px;
+
+
+}
+
+.roundedtransimgnobord img {
     opacity: 0;
     filter: alpha(opacity=0);
 	padding-right: 10px;
