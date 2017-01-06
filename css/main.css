@@ -283,3 +283,45 @@ margin-right: 10px;
     filter: alpha(opacity=0);
 	padding-right: 10px;
 }
+
+.infoheader {
+	text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+	
+}
+.infoheader p {
+	font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 39px;
+    padding-top: 10px;
+	padding-left: 10px;
+    margin-bottom: 0px;
+    color: black;
+}
+}
+.infoheader a {
+	font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 39px;
+    padding-top: 10px;
+	padding-left: 10px;
+    margin-bottom: 0px;
+    color: black;
+}
+
+.media3 a {
+    color: 3C7CE4;
+}
+
+.media3 span {
+    color: #3C7CE4;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 39px;
+}
+
+.media3 i {
+    padding: 0px 10px; 
+}
+	
