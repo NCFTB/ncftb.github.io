@@ -309,19 +309,68 @@ margin-right: 10px;
     margin-bottom: 0px;
     color: black;
 }
-
+.media3 {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 36px;
+    padding-top: 10px;
+	padding-left: 10px;
+    margin-bottom: 0px;
+    color: black;
+}
 .media3 a {
-    color: 3C7CE4;
+    color: #0033cc;
 }
 
-.media3 span {
-    color: #3C7CE4;
+.infoslides span {
+    color: black;
     font-family: "Montserrat", sans-serif;
     font-weight: 300;
     font-size: 39px;
 }
 
-.media3 i {
+.infoslides i {
     padding: 0px 10px; 
 }
+	.media3 a {
+    color: 3C7CE4;
+}
+
+.infoslides span {
+    color:inherit
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.infoslides i {
+    padding: 0px 10px; 
+}
+
+.infohead {
+    text-align: center;
+}
+
+.infohead p {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 33px;
+    padding-top: 10px;
+	padding-left: 10px;
+    margin-bottom: 0px;
+    color: black;
+}
+
+.infohead a {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 39px;
+    padding-top: 10px;
+	padding-left: 10px;
+    margin-bottom: 0px;
+    color: #0033cc;
+    
 	
