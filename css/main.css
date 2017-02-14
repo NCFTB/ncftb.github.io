@@ -324,11 +324,15 @@ margin-right: 10px;
 }
 
 .infoslides span {
-    color: black;
+    text-align: center;
     font-family: "Montserrat", sans-serif;
     font-weight: 300;
-    font-size: 39px;
+    font-size: 18px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+    color: #0033cc;
 }
+
 
 .infoslides i {
     padding: 0px 10px; 
@@ -336,12 +340,8 @@ margin-right: 10px;
 	.media3 a {
     color: 3C7CE4;
 }
-
-.infoslides span {
-    color:inherit
-    font-family: "Montserrat", sans-serif;
-    font-weight: 300;
-    font-size: 25px;
+.infoslides {
+    text-align:left;
 }
 
 .infoslides i {
@@ -353,24 +353,38 @@ margin-right: 10px;
 }
 
 .infohead p {
-    text-align: center;
     font-family: "Montserrat", sans-serif;
     font-weight: 300;
-    font-size: 33px;
+    font-size: 42px;
     padding-top: 10px;
 	padding-left: 10px;
     margin-bottom: 0px;
     color: black;
 }
-
-.infohead a {
-    text-align: center;
+.infoslides p {
     font-family: "Montserrat", sans-serif;
     font-weight: 300;
-    font-size: 39px;
+    font-size: 18px;
     padding-top: 10px;
-	padding-left: 10px;
+    margin-bottom: 0px;
+    color: black;
+}
+
+
+.infoslides a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    padding-top: 10px;
     margin-bottom: 0px;
     color: #0033cc;
-    
-	
+}
+
+.infoslides h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+    color: black;
+}
