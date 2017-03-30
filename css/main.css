@@ -408,10 +408,22 @@ margin-right: 10px;
     margin-bottom: 0px;
     color: black;
 	margin-left:200px;
+	margin-right:200px;
 	
 }
 
 .abouts a{
 	color:black;
 	
+}
+.abouts h2{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    padding-top: 10px;
+    margin-bottom: 0px;
+	margin-left: 200px;
+    color: #ffffff;
+    padding: 10px 0px ;
+    text-align: left;
+    font-size: 25px;
 }
