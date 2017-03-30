@@ -393,3 +393,25 @@ margin-right: 10px;
     margin-bottom: 0px;
     color: black;
 }
+.abouts {
+    float: right;
+    text-align: left;
+    padding: 10px 0px;
+}
+
+.abouts p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 17px;
+    padding-top: 10px;
+	padding-left: 10px;
+    margin-bottom: 0px;
+    color: black;
+	margin-left:200px;
+	
+}
+
+.abouts a{
+	color:black;
+	
+}
