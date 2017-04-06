@@ -417,13 +417,16 @@ margin-right: 10px;
 	
 }
 .abouts h2{
-    font-family: "Montserrat", sans-serif;
-    font-weight: 300;
-    padding-top: 10px;
-    margin-bottom: 0px;
-	margin-left: 200px;
-    color: #ffffff;
-    padding: 10px 0px ;
-    text-align: left;
-    font-size: 25px;
+    
 }
+
+.email {
+	text-align:center;
+	font-family: "Montserrat", sans-serif;
+	font-weight: 300;
+	padding-top: 10px;
+	margin-bottom: 0px;
+	margin-left: 200px;
+	color: #2c84ff;
+	padding: 10px 0px ;
+    font-size: 25px;
